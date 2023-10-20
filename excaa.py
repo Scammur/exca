@@ -57,7 +57,7 @@ uas_random2 = random.choice(["Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QK
 ugen = []
 ugen3 = random.choice(user_agent)
 for agent in range(random.randrange(10000,99999)):
-        aa='Dalvik/2.1.0 (Linux; Android 10;'
+        aa='Mozilla/5.0 (Linux; Android 10;'
         b=random.choice(['6','7','8','9','10','11','12'])
         c='en-us; 10; Redmi Note 9 Pro Build/'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
